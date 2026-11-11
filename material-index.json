@@ -1,0 +1,27 @@
+[
+  {
+    "path": "fixtures/analysis.json",
+    "sha256": "205b8f8a1b2963f2276fc610b1088ac6f13768d256cf6697b77062b770a04631",
+    "size_bytes": 220
+  },
+  {
+    "path": "fixtures/calendar.csv",
+    "sha256": "d7d1ff93074e163fa9a7e613cbdbbe96384e44a0ec523671d30a9f2e6b47408c",
+    "size_bytes": 7915
+  },
+  {
+    "path": "fixtures/events.jsonl",
+    "sha256": "e2121686581a16393d90c3bedb0cf4b71d88b636b9e487d9afd631007c64902a",
+    "size_bytes": 191
+  },
+  {
+    "path": "fixtures/labels.jsonl",
+    "sha256": "785d3cff422904cbde527ad47b01fc4299e9e2a7fb714b9792b623da4caed65c",
+    "size_bytes": 164
+  },
+  {
+    "path": "fixtures/series.csv",
+    "sha256": "00a34d33d6c6202ee6e58ce7a7af560001cebdb706f43ce60fdc70295efb49b6",
+    "size_bytes": 10003
+  }
+]

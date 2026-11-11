@@ -1,0 +1,11 @@
+{
+  "seed": 10206,
+  "training_days": 14,
+  "residual_minimum": 12,
+  "daily_alert_budget": 2,
+  "replay_cutoff": "2026-10-25T10:00:00+08:00",
+  "models_to_compare": [
+    "seasonal_naive",
+    "category_fallback"
+  ]
+}
